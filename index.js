@@ -42,7 +42,7 @@ chrome.runtime.onStartup.addListener(function() {
       return;
 
     // Up to 100 senders are allowed.
-    var senderIds = ["Your-Sender-ID"];
+    var senderIds = ["640342213344"];
     chrome.gcm.register(senderIds, registerCallback);
   });
 });
