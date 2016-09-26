@@ -1,0 +1,27 @@
+
+{
+  "name": "mywebapp",
+  "version": "0.0.1",
+  "description": "My Web app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "engines": {
+    "node": "4.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kannanmurali/mywebapp"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "author": "Kannan",
+  "license": "MIT"
+}
